@@ -1,3 +1,6 @@
+/*
+See https://github.com/ZaaLabs/ZaaMulti/blob/master/src/com/zaalabs/utils/NetworkUtil.as
+*/
 package com.utils
 {
 	import flash.net.InterfaceAddress;

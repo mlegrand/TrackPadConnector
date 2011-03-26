@@ -1,0 +1,23 @@
+_  _ ____ ____ ___  _ _ _ ____ ____ ____ ____ ____ ____ 
+|\ | |___ |__/ |  \ | | | |__| |__/ |___ |__| |__/ |___ 
+| \| |___ |  \ |__/ |_|_| |  | |  \ |    |  | |  \ |___ 
+                                                        
+
+                                                        
+This is just a quick project that pulls together a few open source projects with a few tweaks to get the 
+mac track pad to dispatch raw native touch events.
+
+This project should be used as a demo or prototyping tool.  I'm not sure it's production worthy.
+
+TO USE:
+
+1.  Drop the .swc in the libs folder of your project.  
+2.  Add the tongseng file to the root of your project. 
+3.  Make sure that you set your project to run native processes.  
+Add <supportedProfiles>extendedDesktop desktop</supportedProfiles> to your -app.xml file. 
+
+Projects referenced:
+https://github.com/fajran/tongseng
+http://bubblebird.at/tuioflash/
+
+ 
